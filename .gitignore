@@ -1,0 +1,4 @@
+.idea/
+venv/
+docs/
+__pycache__/pktsniffer.cpython-311.pyc
